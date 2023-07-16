@@ -1,4 +1,5 @@
 # program1.java
+# implements a calculator
 
 import java.util.Scanner;
 
@@ -76,4 +77,5 @@ public class Main {
         scanner.close();
     }
 }
+
 
